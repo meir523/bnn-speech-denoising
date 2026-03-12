@@ -10,13 +10,13 @@ data_compressed.zip: A compressed archive of the dataset, which includes a subse
 
 texts/: Documentation and references.
 
-**project_report_GAMLA.pdf: The final academic project report.**
+- **project_report_GAMLA.pdf: The final academic project report.**
 
-AI_usage_declaration.pdf: A declaration of AI tools used for coding assistance and text refinement.
+- AI_usage_declaration.pdf: A declaration of AI tools used for coding assistance and text refinement.
 
-הנחיות.pdf: The original course project guidelines.
+- instructions.pdf: The original course project guidelines.
 
-papers/: A sub-directory containing the academic papers referenced and cited in the final report.
+- papers/: A sub-directory containing the academic papers referenced and cited in the final report.
 
 
 models/: Contains the saved .pth files of the trained models (DNN, BNN Gaussian, BNN Laplace, and the fine-tuned BNN check).
